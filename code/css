@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 80px auto;
+  background: white;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-radius: 12px;
+}
+
+h1 {
+  color: #333;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #f57c00;
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+h3 {
+  font-weight: normal;
+  color: #555;
+}
+
+.dates {
+  color: #666;
+  font-size: 14px;
+  margin: 20px 0;
+}
+
+.qr-section {
+  margin: 20px 0;
+}
+
+button {
+  background-color: #f57c00;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background-color: #e65100;
+}
