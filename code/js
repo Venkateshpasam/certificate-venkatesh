@@ -1,0 +1,4 @@
+
+function verify() {  
+    window.open("https://partnernetwork.learn.microsoft.com/verify/certificate/9d559e43-f257-4217-bd88-abcdf22159bfc", "_blank");  
+}  
